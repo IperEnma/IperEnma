@@ -20,15 +20,15 @@
 - 🔭 Currently working at **Sofka Technologies** as a **Java Semi-Senior Developer**  
   > Member of the **Access & Security Squad** for a next-gen banking platform — implementing **biometric authentication**, **secure access control**, and **modern backend architecture**.
 
-- 💡 Strong background in **Java (Spring Boot)**, **C**, and **Python**, blending low-level systems knowledge with enterprise-level backend development.
+- 💡 Strong background in **Java (Spring Boot)**, **C**, and **Python**, blending low-level systems knowledge with enterprise-grade backend development.
 
-- 🧩 Formerly at **ST Consultores**, developing financial solutions in **Java/Spring Boot**.
+- 🧩 Formerly at **ST Consultores**, building financial solutions in **Java/Spring Boot**.
 
-- 🌱 Actively learning **Spring Security**, **Kubernetes**, and **Cloud-native architectures** to enhance scalability and reliability.
+- 🎓 **Cybersecurity Diploma — Universidad de Palermo (Completed, 2024)**  
+- 🎓 **Program — Holberton School (Full-Stack, 2022)**  
+- 📚 Studying **Computer Engineering** *(I.U.P. Santiago Mariño)*.
 
-- 🎓 Studying **Computer Engineering** *(I.U.P. Santiago Mariño)* and pursuing a **Diploma in Cybersecurity** *(Universidad de Palermo)*.
-
-- 🧠 Passionate about **clean architecture**, **secure software design**, and **building reliable systems** from first principles.
+- 🌱 Currently exploring **Spring Security**, **Kubernetes**, and **Cloud-native architectures**.
 
 - 📫 Reach me at **enmanuelhernandez1843@gmail.com**
 
@@ -57,10 +57,10 @@ Git • GitHub • Jira • Azure DevOps • Linux • Docker (basic)
 
 | Project | Tech | Description |
 |----------|------|-------------|
-| [AirBnB Clone](https://github.com/IperEnma/holbertonschool-AirBnB_clone) | Python, OOP | Full-featured clone with console interface, serialization, and ORM structure. |
-| [Simple Shell](https://github.com/IperEnma/simple_shell) | C | Custom Unix shell built from scratch — parsing, forking, I/O redirection, and signal handling. |
-| [Binary Trees](https://github.com/IperEnma/binary_trees) | C | Data structure implementations (AVL, heap, binary search trees). |
-| [Spring Boot Samples](https://github.com/IperEnma/springboot-learning) | Java, Spring | Experiments and prototypes exploring Spring Boot, JPA, and REST APIs. |
+| [AirBnB Clone](https://github.com/IperEnma/holbertonschool-AirBnB_clone) | Python, OOP | Holberton School project — console, models, JSON serialization, packaging & deploy scripts. |
+| [Simple Shell](https://github.com/IperEnma/simple_shell) | C | Custom Unix shell — parsing, forking, built-ins, I/O redirection, and signals. |
+| [Binary Trees](https://github.com/IperEnma/binary_trees) | C | Data structures (BST/AVL/Heap) with tests and utilities. |
+| [Spring Boot Samples](https://github.com/IperEnma/springboot-learning) | Java, Spring | Experiments and prototypes exploring Spring Boot, JPA, REST, and validation. |
 
 ---
 
