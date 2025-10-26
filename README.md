@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=IperEnma&theme=onedark&no-frame=true&row=1" alt="IperEnma" />
+    <img src="https://github-profile-trophy.vercel.app/?username=IperEnma&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
