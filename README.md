@@ -53,17 +53,6 @@ Git • GitHub • Jira • Azure DevOps • Linux • Docker (basic)
 
 ---
 
-### 🧩 Featured Repositories
-
-| Project | Tech | Description |
-|----------|------|-------------|
-| [AirBnB Clone](https://github.com/IperEnma/holbertonschool-AirBnB_clone) | Python, OOP | Holberton School project — console, models, JSON serialization, packaging & deploy scripts. |
-| [Simple Shell](https://github.com/IperEnma/simple_shell) | C | Custom Unix shell — parsing, forking, built-ins, I/O redirection, and signals. |
-| [Binary Trees](https://github.com/IperEnma/binary_trees) | C | Data structures (BST/AVL/Heap) with tests and utilities. |
-| [Spring Boot Samples](https://github.com/IperEnma/springboot-learning) | Java, Spring | Experiments and prototypes exploring Spring Boot, JPA, REST, and validation. |
-
----
-
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/enmanuel-h-a382b2121" target="_blank">
