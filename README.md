@@ -22,55 +22,43 @@ Backend Software Developer | Java & Spring Boot Specialist | Security & Modern A
   - CI/CD integration and deployments on **OpenShift**
   - Collaboration with Architecture and QA teams to improve **traceability**, **observability**, and service quality
 
-- 💡 Strong background in **Java**, **Spring Boot**, **Security**, and backend architecture, with additional experience in **C** and **Python**.
+- 💡 Strong background in **Java (Spring Boot)**, **C**, and **Python**, blending low-level systems knowledge with enterprise-grade backend development.
 
-- 🧩 Previously worked at **Sofka Technologies** in the **Access & Security Squad** for banking solutions, implementing:
+- 🔐 Previous experience in **Access & Security squads** for banking platforms, implementing:
   - Biometric authentication
   - Secure access control
-  - Modern backend architectures
+  - Modern backend architecture patterns
 
-- 🏦 Formerly at **ST Consultores**, developing financial solutions using **Java/Spring Boot**.
+- 🧩 Formerly at **ST Consultores**, building financial solutions using **Java/Spring Boot**.
 
----
+- 🎓 **Cybersecurity Diploma — Universidad de Palermo (Completed, 2024)**  
+- 🎓 **Holberton School — Full-Stack Software Engineering (2022)**  
+- 📚 Studying **Computer Engineering** *(I.U.P. Santiago Mariño)*.
 
-## 🎓 Education & Certifications
-
-- 🎓 **Cybersecurity Diploma** — Universidad de Palermo *(2024)*
-- 🎓 **Holberton School** — Full-Stack Software Engineering *(2022)*
-- 📚 Studying **Computer Engineering** — I.U.P. Santiago Mariño
-
----
-
-## 🌱 Currently Learning
-
-- Spring Security
-- Kubernetes & OpenShift
-- Cloud-native architectures
-- DevOps & Observability
-- Distributed systems design
+- 🌱 Currently exploring **Spring Security**, **Kubernetes**, **OpenShift**, and **Cloud-native architectures**.
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 💻 Languages & Frameworks
-Java • Spring Boot • Python • Flask • C • React • JPA/Hibernate
+C • Java • Spring Boot • Python • Flask • React • JPA/Hibernate
 
-### 🧱 Architecture & Backend
-Microservices • Hexagonal Architecture • Clean Architecture • REST APIs • SOAP Services • CQRS • PipelinR
+### 🧱 Architecture & Design
+Hexagonal Architecture • Microservices • Clean Architecture • REST APIs • SOAP Services • CQRS • PipelinR
 
 ### 🔐 Security
-Authentication & Authorization • Biometric Systems • Access Control • Encryption • Secure Backend Design
+Authentication & Authorization • Biometric Systems • Encryption • Access Control • Secure Backend Design
 
 ### 🗄️ Databases
-PostgreSQL • MySQL • PL/SQL
+MySQL • PostgreSQL • PL/SQL
 
 ### 🚀 DevOps & Tools
 Git • GitHub • Azure DevOps • OpenShift • Docker • Linux • Jira • CI/CD Pipelines
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/enmanuel-h" target="_blank">
