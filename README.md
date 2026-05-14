@@ -1,7 +1,9 @@
 ![Codewars](https://www.codewars.com/users/IperEnma/badges/large)
 
 <h1 align="center">Hi 👋, I'm Enmanuel Hernández</h1>
-<h3 align="center">Java Backend Developer | Security & Modern Architecture Enthusiast from Uruguay</h3>
+<h3 align="center">
+Backend Software Developer | Java & Spring Boot Specialist | Security & Modern Architecture Enthusiast
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IperEnma&label=Profile%20views&color=0e75b6&style=flat" alt="IperEnma" />
@@ -9,56 +11,87 @@
 
 ---
 
-### 💼 About Me
+## 💼 About Me
 
-- 🔭 Currently working at **Sofka Technologies** as a **Java Semi-Senior Developer**  
-  > Member of the **Access & Security Squad** for a next-gen banking platform — implementing **biometric authentication**, **secure access control**, and **modern backend architecture**.
+- 🔭 Currently working at **Pyxis** as a **Backend Software Developer**  
+  > Participating in the modernization of enterprise applications for **BSE**, migrating legacy systems from **JBoss to Spring Boot** within a DevOps ecosystem.
 
-- 💡 Strong background in **Java (Spring Boot)**, **C**, and **Python**, blending low-level systems knowledge with enterprise-grade backend development.
+- ⚡ Main responsibilities:
+  - Development of **SOAP** and **REST** services
+  - Implementation of integration and glue code connected to **PL/SQL business logic**
+  - CI/CD integration and deployments on **OpenShift**
+  - Collaboration with Architecture and QA teams to improve **traceability**, **observability**, and service quality
 
-- 🧩 Formerly at **ST Consultores**, building financial solutions in **Java/Spring Boot**.
+- 💡 Strong background in **Java**, **Spring Boot**, **Security**, and backend architecture, with additional experience in **C** and **Python**.
 
-- 🎓 **Cybersecurity Diploma — Universidad de Palermo (Completed, 2024)**  
-- 🎓 **Program — Holberton School (Full-Stack, 2022)**  
-- 📚 Studying **Computer Engineering** *(I.U.P. Santiago Mariño)*.
+- 🧩 Previously worked at **Sofka Technologies** in the **Access & Security Squad** for banking solutions, implementing:
+  - Biometric authentication
+  - Secure access control
+  - Modern backend architectures
 
-- 🌱 Currently exploring **Spring Security**, **Kubernetes**, and **Cloud-native architectures**.
-
-- 📫 Reach me at **enmanuelhernandez1843@gmail.com**
-
----
-
-### ⚙️ Tech Stack
-
-#### 💻 Languages & Frameworks
-C • Java • Spring Boot • Python • Flask • React • JPA/Hibernate
-
-#### 🧱 Architecture & Design
-Hexagonal Architecture • Microservices • Clean Code • CQRS (PipelinR)
-
-#### 🔐 Security
-Authentication & Authorization • Biometric Systems • Encryption • Access Control
-
-#### 🗄️ Databases
-MySQL • PostgreSQL
-
-#### 🧰 Tools & DevOps
-Git • GitHub • Jira • Azure DevOps • Linux • Docker (basic)
+- 🏦 Formerly at **ST Consultores**, developing financial solutions using **Java/Spring Boot**.
 
 ---
 
-### 🌐 Connect with me
+## 🎓 Education & Certifications
+
+- 🎓 **Cybersecurity Diploma** — Universidad de Palermo *(2024)*
+- 🎓 **Holberton School** — Full-Stack Software Engineering *(2022)*
+- 📚 Studying **Computer Engineering** — I.U.P. Santiago Mariño
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Security
+- Kubernetes & OpenShift
+- Cloud-native architectures
+- DevOps & Observability
+- Distributed systems design
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages & Frameworks
+Java • Spring Boot • Python • Flask • C • React • JPA/Hibernate
+
+### 🧱 Architecture & Backend
+Microservices • Hexagonal Architecture • Clean Architecture • REST APIs • SOAP Services • CQRS • PipelinR
+
+### 🔐 Security
+Authentication & Authorization • Biometric Systems • Access Control • Encryption • Secure Backend Design
+
+### 🗄️ Databases
+PostgreSQL • MySQL • PL/SQL
+
+### 🚀 DevOps & Tools
+Git • GitHub • Azure DevOps • OpenShift • Docker • Linux • Jira • CI/CD Pipelines
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/enmanuel-h-a382b2121" target="_blank">
+  <a href="https://linkedin.com/in/enmanuel-h" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 </p>
 
+📫 **Email:** `enmanuelhernandez1843@gmail.com`
+
 ---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IperEnma&show_icons=true&layout=compact&theme=tokyonight" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IperEnma&show_icons=true&theme=tokyonight" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IperEnma&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IperEnma&theme=tokyonight" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IperEnma&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IperEnma&theme=tokyonight" />
+</p>
