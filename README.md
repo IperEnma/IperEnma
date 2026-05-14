@@ -14,7 +14,7 @@ Backend Software Developer | Java & Spring Boot Specialist | Security & Modern A
 ## 💼 About Me
 
 - 🔭 Currently working at **Pyxis** as a **Backend Software Developer**  
-  > Participating in the modernization of enterprise applications for **BSE**, migrating legacy systems from **JBoss to Spring Boot** within a DevOps ecosystem.
+  > Participating in the modernization of enterprise banking applications, migrating legacy systems from **JBoss to Spring Boot** within a DevOps ecosystem.
 
 - ⚡ Main responsibilities:
   - Development of **SOAP** and **REST** services
